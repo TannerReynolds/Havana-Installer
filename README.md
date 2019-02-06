@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="300" src="http://qoilo.com/YoAWoM.gif">
+  <img width="300" src="http://qoilo.com/YoAWoM.gif">
 </p>
 # Havana-Installer
 Installer Application for Havana - WIP
